@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032152d3-91d3-486b-a18f-ab8f89d56c56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/File_3.py" afterDir="false" />
-    </list>
+    <list default="true" id="032152d3-91d3-486b-a18f-ab8f89d56c56" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch-1" />
+        <entry key="$PROJECT_DIR$" value="branch3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,12 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1576561566236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test Commit -3">
+      <created>1576561784299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576561784299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Test Commit -2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit -2" />
+    <MESSAGE value="Test Commit -3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit -3" />
   </component>
 </project>
